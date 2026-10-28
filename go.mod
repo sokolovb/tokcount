@@ -1,5 +1,5 @@
 module github.com/sokolovb/tokcount
 
-go 1.27.3
+go 1.26.0
 
 require golang.org/x/text v0.43.0
