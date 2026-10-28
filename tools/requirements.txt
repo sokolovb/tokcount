@@ -1,0 +1,4 @@
+# Reference implementations testdata/expected.json was generated with.
+tokenizers==0.23.3
+tiktoken==0.14.0
+transformers==5.20.2

@@ -1,0 +1,16 @@
+# Tokenizer files: fetched by tools/fetch_models.sh, not redistributed here.
+/testdata/models/
+
+# Python environment for tools/gen_reference.py.
+/.venv/
+__pycache__/
+
+# Go build and test output.
+*.test
+*.out
+*.prof
+
+# Editors and OS.
+.idea/
+.vscode/
+.DS_Store
